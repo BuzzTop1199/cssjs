@@ -120,7 +120,7 @@ var duan="1117133240";
 var submittitle='Đăng ký tư vấn';
 var submittedform=false;
 var titleheader="ĐĂNG KÝ TƯ VẤN NHẬN ƯU ĐÃI";
-var hotline="0938949295
+var hotline="0938949295";
 var linkhientai=window.location.href;
 var thoigiancookie=1;
 var thoigianhien=60000;
@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://hocvienfaceseo.com";
+	window.location="https://forestcitycoutrygarden.blogspot.com/";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
